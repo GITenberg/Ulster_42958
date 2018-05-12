@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2451
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Lucius_Gwynn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42958#Ulster
 gutenberg_issued: '2013-06-16'
 gutenberg_type: Text
 identifiers:
