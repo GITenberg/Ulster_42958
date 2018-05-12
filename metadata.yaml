@@ -1,0 +1,36 @@
+_repo: Ulster_42958
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Williams, Alexander
+    birthdate: 1846
+    deathdate: 1930
+    gutenberg_agent_id: '42019'
+    url: http://www.gutenberg.org/2009/agents/42019
+covers:
+- cover_type: archival
+  image_path: 42958-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Gwynn, Stephen Lucius
+    birthdate: 1864
+    deathdate: 1950
+    gutenberg_agent_id: '2451'
+    url: http://www.gutenberg.org/2009/agents/2451
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Lucius_Gwynn
+description: ''
+gutenberg_issued: '2013-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42958'
+  lccn: '12024342'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Beautiful Ireland.
+subjects:
+- !lcc 'DA'
+- !lcsh 'Ulster (Northern Ireland and Ireland) -- Description and travel'
+title: Ulster
+url: http://www.gutenberg.org/ebooks/42958
